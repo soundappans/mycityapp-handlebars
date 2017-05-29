@@ -1,0 +1,15 @@
+{
+  "name": "mycityapp-handlebars",
+  "version": "1.0.0",
+  "description": "\"mycityapp project using Handlerbars template\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sound",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
